@@ -25,9 +25,9 @@ perl replace_TEMP.pl -i doc.md
 ```
 
 ## 测试：
-https://cdn.jsdelivr.net/gh/dadongshangu/CDN@1.0/images/Q35_shanghai.jpg
+https://cdn.jsdelivr.net/gh/dadongshangu/CDN@1.0/images/Q35_Shanghai.jpg
 
-![pictures](https://cdn.jsdelivr.net/gh/dadongshangu/CDN@1.0/images/Q35_shanghai.jpg)
+![pictures](https://cdn.jsdelivr.net/gh/dadongshangu/CDN@1.0/images/Q35_Shanghai.jpg)
 ![test](https://cdn.jsdelivr.net/gh/dadongshangu/CDN@1.0/images/Q35_Shanghai.jpg)
 
 Put images here.
