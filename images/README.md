@@ -1,6 +1,12 @@
+## 测试：
+https://cdn.jsdelivr.net/gh/dadongshangu/CDN@1.0/images/Q35_shanghai.jpg
+
+![pictures]（https://cdn.jsdelivr.net/gh/dadongshangu/CDN@1.0/images/Q35_shanghai.jpg）
+
 Put images here.
 References:
 https://www.itrhx.com/2019/08/01/A27-image-hosting/
+
 
 通过jsDelivr引用资源
 使用方法：https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
