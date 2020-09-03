@@ -1,3 +1,33 @@
+##如何使用
+
+### 自动方法
+使用QQ截图Ctrl+Alt+A或者微信的Alt+A截图后，按下Ctrl+Shiht+P快捷键即可自动上传到github对应的repo中，上传完成后，会有提示，自动将对应的图片地址送入剪贴板中，直接Ctrl+V即可粘贴对应的地址出来了~~
+
+### 归类方法：
+图片放到本地git，按照日期或者博客名称分类，git pull到github，然后用相对地址写，然后进行全部替换：
+Step 1: In markdown it will show as below:
+```text
+![pictures][TEMP/20200903/1.jpg]
+```
+Step 2: git push all pictures to ```dadongshang/CDN/images/20200903/```
+Step 3: Replace:
+By hand with replace_all
+```text
+substitute
+TEMP
+by
+https://cdn.jsdelivr.net/gh/dadongshangu/CDN@1.0/images/
+```
+Or use perl script:
+```shell
+perl replace_TEMP.pl -i doc.md
+```
+
+作者：FelixCoder
+链接：https://www.jianshu.com/p/d51258ef5484
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
 ## 测试：
 https://cdn.jsdelivr.net/gh/dadongshangu/CDN@1.0/images/Q35_shanghai.jpg
 
