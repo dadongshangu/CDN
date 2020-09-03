@@ -24,11 +24,6 @@ Or use perl script:
 perl replace_TEMP.pl -i doc.md
 ```
 
-作者：FelixCoder
-链接：https://www.jianshu.com/p/d51258ef5484
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
 ## 测试：
 https://cdn.jsdelivr.net/gh/dadongshangu/CDN@1.0/images/Q35_shanghai.jpg
 
