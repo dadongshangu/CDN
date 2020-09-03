@@ -10,6 +10,7 @@ Step 1: In markdown it will show as below:
 ![pictures][TEMP/20200903/1.jpg]
 ```
 Step 2: git push all pictures to ```dadongshang/CDN/images/20200903/```
+
 Step 3: Replace:
 By hand with replace_all
 ```text
