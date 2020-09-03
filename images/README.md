@@ -1,7 +1,7 @@
 ## 测试：
 https://cdn.jsdelivr.net/gh/dadongshangu/CDN@1.0/images/Q35_shanghai.jpg
 
-![pictures]（https://cdn.jsdelivr.net/gh/dadongshangu/CDN@1.0/images/Q35_shanghai.jpg）
+![pictures](https://cdn.jsdelivr.net/gh/dadongshangu/CDN@1.0/images/Q35_shanghai.jpg)
 
 Put images here.
 References:
